@@ -29,5 +29,5 @@ https://lobopopart.com.br/en/the-history-of-painting/#:~:text=The%20first%20pain
 https://readme.so/editor
 
 ### PROJECT LINK
-<a href="https://143shabeng.github.io/Final-Project"> Project Link </a>
+<a href="https://143shabeng.github.io/bsit-2-3-2022-grp-8-gernale-et-al/"> Project Link </a>
 
